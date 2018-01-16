@@ -2,9 +2,14 @@ section {
     background-color: #888;
     border: 1px solid #444;
     box-sizing: border-box;
-    
+    position: relative;
 }
 
 p {
-    text-align: center;
+    display: inline-block;
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    top: 45%;
+    left: 50%;
 }
