@@ -3,12 +3,12 @@ body {
 }
 
 header {
-    width: 482px;
+    width: 480px;
     margin: 0 auto;
 }
 
 main {
-    width: 482px;
+    width: 480px;
     margin: 0 auto;
 }
 
@@ -28,7 +28,7 @@ main {
 }
 
 #e, #f, #g, #h {
-    width: 239px;
+    width: 240px;
     height: 250px;
     display: inline-block;
     margin: 0px;
@@ -43,13 +43,13 @@ main {
 @media only screen and (min-width: 768px) {
 
     header {
-        width: 962px;
+        width: 960px;
         margin: 0 auto;
     }
     
     main {
-        width: 962px;
-        height: 604px;
+        width: 960px;
+        height: 600px;
         margin: 0 auto;
         position: relative;
     }
@@ -61,25 +61,25 @@ main {
     
     #b {
         width: 200px;
-        height: 602px;
+        height: 600px;
         float: left;
     }
     
     #c, #d {
-        width: 378px;
+        width: 380px;
         height: 200px;
         display: inline-block;
     }
     
     #e, #f, #g, #h {
-        width: 188px;
+        width: 190px;
         height: 250px;
         display: inline-block;
     }
     
     #i {
-        width: 758px;
-        height: 148px;
+        width: 760px;
+        height: 150px;
         position: absolute;
         bottom: 0px;
         right: 0px;
